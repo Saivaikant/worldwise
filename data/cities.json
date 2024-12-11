@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "9b22",
+      "cityName": "Sambok",
+      "country": "Cambodia",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/KH.svg",
+      "date": "2024-12-11T06:19:43.487Z",
+      "notes": "jngkrtn",
+      "position": {
+        "lat": "12.60046314979016",
+        "lng": "106.04003906250001"
+      }
+    },
+    {
+      "id": "5aa0",
+      "cityName": "Tura",
+      "country": "Russian Federation (the)",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/RU.svg",
+      "date": "2024-12-11T06:19:58.233Z",
+      "notes": "jhh",
+      "position": {
+        "lat": "65.37041417320269",
+        "lng": "99.49218750000001"
+      }
+    }
+  ]
+}
